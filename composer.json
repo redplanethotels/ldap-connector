@@ -1,7 +1,7 @@
 {
-    "name": "dsdevbe/ldap-connector",
+    "name": "redplanethotels/ldap-connector",
     "description": "Easily authenticate with LDAP in Laravel",
-    "homepage": "https://github.com/dsdevbe/ldap-connector",
+    "homepage": "https://github.com/redplanethotels/ldap-connector",
     "keywords": ["Laravel", "Ldap"],
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "4.2.*",
-        "adldap/adldap": "4.0-stable"
+        "adldap/adldap": "4.0.*"
     },
     "autoload": {
         "psr-0": {
